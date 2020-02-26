@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/GuessGame/GuessGame.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/GuessGame-CSharp/GuessGame.csproj",
       "projectName": "GuessGame",
-      "projectPath": "/Users/Guest/Desktop/GuessGame/GuessGame.csproj",
+      "projectPath": "/Users/Guest/Desktop/GuessGame-CSharp/GuessGame.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/GuessGame/obj/",
+      "outputPath": "/Users/Guest/Desktop/GuessGame-CSharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
